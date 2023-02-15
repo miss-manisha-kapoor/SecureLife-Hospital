@@ -1,0 +1,17 @@
+.login{
+    height: 100%; 
+    /* width: 100%; */
+    border: 2px solid black;
+    /* background-position: center; */
+    background: orange;
+    width: 219px;
+    height: 164px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -50px 0 0 -50px;
+}
+    
+  .login input{
+    border: black;
+  }
